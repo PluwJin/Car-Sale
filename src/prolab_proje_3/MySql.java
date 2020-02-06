@@ -14,7 +14,7 @@ public class MySql {
     static final String DB_URL ="jdbc:mysql://"+HOST_NAME+"/"+VERITABANI;
     
     static final String K_AD="root";
-    static final String SIFRE ="160201039erhan";
+    static final String SIFRE ="***********";
     ResultSet sonuc;
      Connection baglanti=null;
         PreparedStatement sorgu=null;
